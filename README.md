@@ -1,4 +1,4 @@
-# programa-o_Concorrente
+# programação_Concorrente
 
 Repositorio para projetos de programação concorrente e distribuida
 
